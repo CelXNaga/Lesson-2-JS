@@ -1,0 +1,17 @@
+h3 {
+	margin-top: 30px;
+}
+.container {
+	margin: 50px;
+}
+
+.lead {
+	margin-top: 30px;
+}
+
+.drop ul {
+	display: none;
+}
+.open ul {
+	display: block;
+}
